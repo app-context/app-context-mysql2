@@ -2,29 +2,21 @@
   "name": "app-context-mysql",
   "version": "1.0.0",
   "description": "mysql initializer for app-context",
-  "author": "Matt Insler <matt.insler@gmail.com>",
-  "contributors": [
-    {
-      "name": "Matt Insler",
-      "email": "matt.insler@gmail.com"
-    }
-  ],
-  "main": "lib/app-context-mysql",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mattinsler/app-context-mysql.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mattinsler/app-context-mysql/issues"
-  },
   "keywords": [
     "app-context",
     "mysql"
   ],
-  "dependencies": {
-    "bluebird": "^2.9.34",
-    "mysql": "^2.9.0",
-    "mysql-builder": "0.0.2"
+  "homepage": "https://github.com/app-context/app-context-mysql",
+  "bugs": {
+    "url": "https://github.com/mattinsler/app-context-mysql/issues"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Matt Insler <matt.insler@gmail.com>",
+  "main": "lib/app-context-mysql",
+  "repository": "app-context/app-context-mysql",
+  "dependencies": {
+    "bluebird": "2.9.34",
+    "mysql": "2.9.0",
+    "mysql-builder": "0.0.2"
+  }
 }
