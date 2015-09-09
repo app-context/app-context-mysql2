@@ -1,6 +1,6 @@
 # app-context-mysql
 
-[mysql](https://www.npmjs.com/package/mysql) initializer for [app-context](https://www.npmjs.com/package/app-context)
+[mysql](https://www.npmjs.com/package/mysql) initializer for [app-context](http://app-contextjs.com)
 
 ## Usage
 
