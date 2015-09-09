@@ -1,6 +1,6 @@
 {
   "name": "app-context-mysql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mysql initializer for app-context",
   "keywords": [
     "app-context",
@@ -17,6 +17,7 @@
   "dependencies": {
     "bluebird": "2.9.34",
     "mysql": "2.9.0",
-    "mysql-builder": "0.0.2"
+    "mysql-builder": "0.0.2",
+    "@mattinsler/app-context-create-connections": "0.0.1"
   }
 }
